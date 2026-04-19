@@ -17,3 +17,5 @@ class B:
     def MB2(self):
         print("Método MB2") # Imprime nome do método [cite: 47]
         
+    def MB3(self):
+        print("Método MB3") [cite: 72, 73]
