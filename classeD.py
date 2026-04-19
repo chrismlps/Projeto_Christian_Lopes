@@ -1,6 +1,5 @@
 class D:
     def __init__(self):
-        # Atributos de sua escolha (exemplo: int e string)
         self.D1 = 0
         self.D2 = ""
 
@@ -9,6 +8,9 @@ class D:
 
     def MD2(self):
         print("Método MD2")
-        
-    def MD4(self):
+
+    def MD3(self):
         print("Método MD3")
+
+    def MD4(self):
+        print("Método MD4")
