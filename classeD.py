@@ -9,3 +9,6 @@ class D:
 
     def MD2(self):
         print("Método MD2")
+        
+    def MD4(self):
+        print("Método MD3")
